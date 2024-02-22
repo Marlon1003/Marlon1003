@@ -1,6 +1,6 @@
 
 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=016bb3&size=35&start=true&vStart=true&width=1000&lines=Hi!+My+name+is+Marlon;Frontend+Developer+in+progress!)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=009fe3&size=35&start=true&vStart=true&width=1000&lines=Hi!+My+name+is+Marlon;Frontend+Developer+in+progress!)
  
 <!------------------------------------------------------------------------------------------>
 
