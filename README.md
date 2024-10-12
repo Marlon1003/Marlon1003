@@ -27,9 +27,9 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="48"  title="Vite">  
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="48" title="TypeScript">        
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48">        
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48" title="Bootstrap">        
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="48" title="Discord">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="48" title="Discord">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="48" title="Photoshop">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="48" title="Wordpress">
 <p/>
 
