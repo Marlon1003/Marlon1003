@@ -30,6 +30,8 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48">        
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="48" title="Discord">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="48" title="Discord">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="48" title="Wordpress">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Odoo.svg" width="48" title="Odoo">
 <p/>
 
 <!------------------------------------------------------------------------------------------>
